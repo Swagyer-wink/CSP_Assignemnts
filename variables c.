@@ -1,1 +1,18 @@
+#include <stdio.h>
 
+int main(void) {
+    char aboutMe[]="my name is Sawyer and I have brown eyes, im 14.";
+    char numberOne[]="4";
+    char numberRandom[]="524";
+    char breakfast[]="strawberry and toast";
+    char colorFav[]="red mixed with black";
+    char schoolFct[]="my school name is ucas and my favorite subject is 2024"
+
+    ;printf("%s\n", aboutMe);
+    ;printf("%s\n", numberOne);
+    ;printf("%s\n", numberRandom); 
+    ;printf("%s\n", breakfast);
+    ;printf("%s\n", colorFav);
+    ;printf("%s\n", schoolFct);
+    return 0;
+}
