@@ -1,14 +1,3 @@
-name = "my name is Sawyer"
-print(name)
-school = "lehi and my favorite subject is math"
-print(school)
-randomNumber = "4 and 530"
-print(randomNumber)
-food = "for breakfast I had stawberrys and toast"
-print(food)
-favColor = "my favorite color is black and red combined"
-print(favColor)
-year = "the year is 2024"
-print(year)
-aboutme = "my eye color is brown and my age 14"
-print(aboutme)
+name=input("What is your name?: ")
+print ("hello,", name)
+print ("we have been trying to reach because the last time you paid off your netflix subscription was two months ago, so if you would like to continue having acesses to netflix services you are going to need to renew the subscription")
